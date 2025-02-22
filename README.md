@@ -29,5 +29,7 @@
  - необходимо записать видео развертки базы данных в db4free.net и подключение к загруженной базе данных. Это видео пойдет в отчет (видео загрузить на гидхаб)
  - оценка полезности и информативности диграмм в юпитере
 
-## ER-диаграмма:
+## ER-диаграммы:
 ![alt text](https://github.com/Nigota/MySQL/blob/main/db_diagram.png)
+
+![alt text](https://github.com/Nigota/MySQL/blob/main/Tasks/G8/db_hospital.png)
