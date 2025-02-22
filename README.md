@@ -1,6 +1,7 @@
 # Коллективный проект
 
 Ссылка на базу данных: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data
+
 Всего выполненно заданий с использованием MySQL: **62**
 
 ## Распределение задач:
